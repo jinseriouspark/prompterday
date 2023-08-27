@@ -5,6 +5,5 @@
 - 1차 일정 : ~9/3
 
 - 파일 설명
-    1. project1 레퍼런스 확인
-    - 실행 코드
-        ```streamlit run project_1/code/app.py``````
+    1. project1 레퍼런스 확인을 위한 코드
+        > streamlit run project_1/code/app.py
